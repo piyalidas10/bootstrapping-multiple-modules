@@ -51,6 +51,9 @@ Now you can create you own custom components regarding web application inside pr
 Now you can create you own custom components regarding mobile application inside secondary folder.
 These primary and secondary folder will act like two different application.
 
+![Web version](pimary.png)
+![Mobile version](secondary.png)
+
 Also need to change the index.html root element
 ```
 <!doctype html>
