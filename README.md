@@ -24,6 +24,9 @@ bootstrap: [AppComponent]
 ```
 
 ### Realtime example of using multiple modules instead of AppModule on condition basis
+
+![main](main.png)
+
 Angular is supporting run multiple apps on the same platform. If you have two application for web and mobile inside one angular application. Then you have to only load the particular module for separate version(web/mobile).
 ```
 /*
