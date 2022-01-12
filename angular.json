@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bootstrapping-multiple-modules"
+    }
+  },
+  "defaultProject": "bootstrapping-multiple-modules",
+  "cli": {
+    "analytics": false
+  }
 }
